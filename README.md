@@ -1,7 +1,7 @@
 <!--
 Any comments?
 -->
-## CCG Spend on VCSEs, 2018/19:  Data & Analysis(B)
+## CCG Spend on VCSEs, 2018/19:  Data & Analysis
 
 As part of an NIHR-funded project on *Commissioning, Co-commissioning and Being Commissioned; the NHS and Third Sector Organisations* ([research protocol](https://tinyurl.com/tvpx3ty2)) a nearly complete set of Clinical Commissioning Group (CCG) “over-threshold” expenditure data for 2018/19 was acquired, cleaned and analysed.  
 
